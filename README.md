@@ -1,0 +1,2 @@
+# cripto
+Kerja keras
